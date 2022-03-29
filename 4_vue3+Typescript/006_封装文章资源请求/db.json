@@ -1,0 +1,23 @@
+{
+    "articles": [{
+            "id": 1,
+            "title": "小泡子",
+            "status": "true",
+            "author": "大哥"
+        },
+        {
+            "id": 2,
+            "title": "老壁灯",
+            "status": "true",
+            "author": "小弟"
+        }
+    ],
+    "comments": [{
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+    }],
+    "profile": {
+        "name": "typicode"
+    }
+}
